@@ -37,4 +37,4 @@ If you have similar ideas or any kind of suggestions, you are very welcomed to c
 
 
 ## License
-[MIT licnese](LICENSE.txt)
+[MIT license](LICENSE.txt)
