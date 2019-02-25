@@ -12,10 +12,8 @@ The **working process** is:
 
 **Applications**: This is a simple system that uses sensors to detect the condition of items. For example, if we put sensors in the roads that can sense the rubbish or dirt on the road, it will be easier for cleaners to design the route of cleaning them. They might just need to choose some of the roads to clean and use the appropriate amount of water to clean them according to the road conditions. Another such example can be setting up sensors in the garbage bins so that the trash collectors can get this information of how full the trash bins are and only collect some of the trash bins rather than checking every single one in the town. These applications assist people in their respective occupations by disconnecting people from physically checking the conditions of items. They just need to react to the system when the condition needs to be improved or changed. 
 
-I have grown several succulent plants. They don't need to be watered very frequenty so sometimes I forgot to water them. I want to design something that can tell me when the plant is dry so I can water the plant with a proper amount of water when it needs. The idea is to put some sensors in the soil to sense the dryness, and send this information to a micro-controller. When the dryness reach some level, the micro-controller will send a message to my smart phone or other electronic devices to remind me to water the plants.
-
 ## Hardware 
-![things](https://github.com/Miizz/2019IoT/pictures/things.jpg)
+![things](https://github.com/Miizz/2019IoT/blob/master/pictures/things.jpg)
 The above picture shows the hardware that I use for the project. Includes:
 - an ESP32 micro-controller
 - a soil moisture sensor
